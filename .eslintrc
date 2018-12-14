@@ -1,0 +1,11 @@
+{
+  "extends": ["google"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 9
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
