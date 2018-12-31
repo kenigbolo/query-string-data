@@ -1,5 +1,7 @@
 # query-string-data
 
+[![Build Status](https://travis-ci.org/kenigbolo/query-string-data.svg?branch=master)](https://travis-ci.org/kenigbolo/query-string-data)
+
 A tiny library that helps convert a javascript object into valid query string parameters.
 
 ## Example Usage
