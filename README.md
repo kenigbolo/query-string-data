@@ -7,7 +7,7 @@ A tiny library that helps convert a javascript object into valid query string pa
 ## Example Usage
 
 ```javascript
-const {queryString} = require('query-string-object')
+const {queryString} = require('js-query-string-object')
 const queryObject = {
   firstName: 'Stephen',
   lastName: 'Kenigbolo'

@@ -1,5 +1,5 @@
 {
-  "name": "query-string-object",
+  "name": "js-query-string-object",
   "version": "0.0.1",
   "description": "A tiny library that helps convert a javascript object into valid query string parameters",
   "main": "index.js",
