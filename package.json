@@ -27,7 +27,7 @@
   "homepage": "https://github.com/kenigbolo/query-string-data#readme",
   "devDependencies": {
     "eslint": "^6.0.0",
-    "eslint-config-google": "^0.13.0",
+    "eslint-config-google": "^0.14.0",
     "mocha": "^6.0.0"
   }
 }
